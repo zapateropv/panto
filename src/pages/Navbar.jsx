@@ -7,6 +7,7 @@ import { navbar } from '../navbar';
 import { Link } from 'react-router-dom';
 import { useSelector } from 'react-redux';
 
+
 const Navbar = () => {
 
     const [toggle, setToggle] = useState(false)
@@ -38,8 +39,11 @@ const Navbar = () => {
 
                 <div className="hidden md:flex items-center gap-10">
                     {navbar.map((item, index) => (
-                        <p className='cursor-pointer text-lg border-transparent border-b-2 hover:border-y-amber-200'
-                        key={index}>{item}</p>
+                        <Link key={index} 
+                              to={item.path} 
+                              className="cursor-pointer mb-2">
+                                {item.name}
+                        </Link>
                     ))}
                 </div>
 
@@ -60,8 +64,13 @@ const Navbar = () => {
         ${toggle ? "opacity-100 translate-y-0 pointer-events-auto" : "opacity-0 -translate-y-2 pointer-events-none"}
   `}
                 >
-                    {navbar.map((item) => (
-                        <p key={item} className="cursor-pointer mb-2">{item}</p>
+                    {navbar.map((item, index) => (
+                        <Link key={index} 
+                              to={item.path} 
+                              className="cursor-pointer mb-2">
+                                {item.name}
+                        </Link>
+                       
                     ))}
                 </div>
 
