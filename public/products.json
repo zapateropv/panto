@@ -3,127 +3,128 @@
         "id": 1,
         "title": "Anjay Chair",
         "price": "519.00",
-        "image": "src/assets/chairs/AnjayChair.png",
+        "image": "/chairs/AnjayChair.png",
         "category": "Chair",
-        "rating": "src/assets/star.png"
+        "rating": "/star.png"
     },
     {
         "id": 2,
         "title": "Baltsar Chair",
         "price": "299.00",
-        "image": "src/assets/chairs/Baltsar Chair.png",
+        "image": "/chairs/BaltsarChair.png",
         "category": "Chair",
-        "rating": "src/assets/star.png"
+        "rating": "/star.png"
     },
     {
         "id": 3,
         "title": "Nyantuy Chair",
         "price": "921.00",
-        "image": "src/assets/chairs/Nyantuy Chair.png",
+        "image": "/chairs/NyantuyChair.png",
         "category": "Chair",
-        "rating": "src/assets/star.png"
+        "rating": "/star.png"
     },
     {
-         "id": 4,
+        "id": 4,
         "title": "Sakarias Chair",
         "price": "392.00",
-        "image": "src/assets/chairs/Sakarias Armchair.png",
+        "image": "/chairs/SakariasArmchair.png",
         "category": "Chair",
-        "rating": "src/assets/star.png"
+        "rating": "/star.png"
     },
-    {   "id": 5,
+    {
+        "id": 5,
         "title": "Trundle Bed",
         "price": "499.00",
-        "image": "src/assets/beds/bed 1.png",
+        "image": "/beds/bed1.png",
         "category": "Beds",
-        "rating": "src/assets/star.png"
+        "rating": "/star.png"
     },
     {
-         "id": 6,
+        "id": 6,
         "title": "Ottoman Bed",
         "price": "349.00",
-        "image": "src/assets/beds/bed2.png",
+        "image": "/beds/bed2.png",
         "category": "Beds",
-        "rating": "src/assets/star.png"
+        "rating": "/star.png"
     },
     {
-         "id": 7,
+        "id": 7,
         "title": "Sleigh Bed",
         "price": "299.00",
-        "image": "src/assets/beds/bed3.png",
+        "image": "/beds/bed3.png",
         "category": "Beds",
-        "rating": "src/assets/star.png"
+        "rating": "/star.png"
     },
     {
-         "id": 8,
+        "id": 8,
         "title": "Murphy Bed",
         "price": "629.00",
-        "image": "src/assets/beds/bed4.png",
+        "image": "/beds/bed4.png",
         "category": "Beds",
-        "rating": "src/assets/star.png"
+        "rating": "/star.png"
     },
     {
-         "id": 9,
+        "id": 9,
         "title": "Futon Sofa",
         "price": "299.00",
-        "image": "src/assets/sofas/sofa1.png",
+        "image": "/sofas/sofa1.png",
         "category": "Sofa",
-        "rating": "src/assets/star.png"
+        "rating": "/star.png"
     },
     {
-         "id": 10,
+        "id": 10,
         "title": "Lawson Sofa",
         "price": "479.00",
-        "image": "src/assets/sofas/sofa2.png",
+        "image": "/sofas/sofa2.png",
         "category": "Sofa",
-        "rating": "src/assets/star.png"
+        "rating": "/star.png"
     },
     {
-         "id": 11,
+        "id": 11,
         "title": "Recaimer Sofa",
         "price": "329.00",
-        "image": "src/assets/sofas/sofa3.png",
+        "image": "/sofas/sofa3.png",
         "category": "Sofa",
-        "rating": "src/assets/star.png"
+        "rating": "/star.png"
     },
     {
-         "id": 12,
+        "id": 12,
         "title": "Sectional Sofa",
         "price": "529.00",
-        "image": "src/assets/sofas/sofa4.png",
+        "image": "/sofas/sofa4.png",
         "category": "Sofa",
-        "rating": "src/assets/star.png"
+        "rating": "/star.png"
     },
     {
-         "id": 13,
+        "id": 13,
         "title": "Luminous Lamp",
         "price": "392.00",
-        "image": "src/assets/lamps/lamps1.png",
+        "image": "/lamps/lamps1.png",
         "category": "Lamp",
-        "rating": "src/assets/star.png"
+        "rating": "/star.png"
     },
     {
-         "id": 14,
+        "id": 14,
         "title": "Shimmer Lamp",
         "price": "429.00",
-        "image": "src/assets/lamps/lamps2.png",
+        "image": "/lamps/lamps2.png",
         "category": "Lamp",
-        "rating": "src/assets/star.png"
+        "rating": "/star.png"
     },
     {
         "id": 15,
         "title": "Lightwave Lamp",
         "price": "199.00",
-        "image": "src/assets/lamps/lamps3.png",
+        "image": "/lamps/lamps3.png",
         "category": "Lamp",
-        "rating": "src/assets/star.png"
+        "rating": "/star.png"
     },
-     {
-         "id": 16,
-         "title": "Rays Lamp",
+    {
+        "id": 16,
+        "title": "Rays Lamp",
         "price": "299.00",
-        "image": "src/assets/lamps/lamps4.png",
+        "image": "/lamps/lamps4.png",
         "category": "Lamp",
-        "rating": "src/assets/star.png"
+        "rating": "/star.png"
     }
 ]
