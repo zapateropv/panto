@@ -61,7 +61,7 @@ const AboutNavbar = () => {
                     {navbar.map((item, index) => (
                         <Link key={index}
                             to={item.path}
-                            className="cursor-pointer mb-2">
+                            className="cursor-pointer mb-2 flex flex-col">
                             {item.name}
                         </Link>
 
