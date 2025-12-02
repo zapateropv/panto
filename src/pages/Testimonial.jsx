@@ -1,7 +1,6 @@
 import React from 'react'
 import { testimonial } from '../testimonial'
-import bg1 from '../assets/testimonial/bg1.png'
-import pfp1 from '../assets/pfp/pfp1.png'
+
 
 
 const Testimonial = () => {
