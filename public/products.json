@@ -11,7 +11,7 @@
         "id": 2,
         "title": "Baltsar Chair",
         "price": "299.00",
-        "image": "/chairs/BaltsarChair.png",
+        "image": "/chairs/Baltsar Chair.png",
         "category": "Chair",
         "rating": "/star.png"
     },
@@ -19,7 +19,7 @@
         "id": 3,
         "title": "Nyantuy Chair",
         "price": "921.00",
-        "image": "/chairs/NyantuyChair.png",
+        "image": "/chairs/Nyantuy Chair.png",
         "category": "Chair",
         "rating": "/star.png"
     },
@@ -27,7 +27,7 @@
         "id": 4,
         "title": "Sakarias Chair",
         "price": "392.00",
-        "image": "/chairs/SakariasArmchair.png",
+        "image": "/chairs/Sakarias Armchair.png",
         "category": "Chair",
         "rating": "/star.png"
     },
@@ -35,7 +35,7 @@
         "id": 5,
         "title": "Trundle Bed",
         "price": "499.00",
-        "image": "/beds/bed1.png",
+        "image": "/beds/bed 1.png",
         "category": "Beds",
         "rating": "/star.png"
     },
