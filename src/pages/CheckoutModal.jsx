@@ -10,7 +10,7 @@ const CheckoutModal = ({toggle, setToggle, ModalToggle}) => {
      const options = useMemo(() => countryList().getData(), []);
 
   return (
-    <div className='max-w-200 '>
+    <div className='max-w-200  '>
       <div className='flex  justify-between items-center mb-10'>
         <p className='text-2xl font-gilroy-bold '>Delivery Information</p>
         <IoMdClose className='cursor-pointer text-red-900' 
@@ -47,7 +47,7 @@ const CheckoutModal = ({toggle, setToggle, ModalToggle}) => {
         </div>
         <div>
         
-            <textarea className='checkout-modal h-40' placeholder='Additional Info'>
+            <textarea className='checkout-modal h-15' placeholder='Additional Info'>
             
             </textarea>
         </div>
