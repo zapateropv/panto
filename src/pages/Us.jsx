@@ -11,7 +11,7 @@ const Us = () => {
 
       <div className="lg:mt-100 mt-80 flex flex-col items-center justify-center p-10 lg:flex-row lg:items-center lg:justify-between">
         <div className="m-10">
-          <p className="text-3xl max-w-50 font-gilroy-bold">Why Choosing Us</p>
+          <p className="text-3xl max-w-50 font-gilroy-bold">Why Choose Us</p>
         </div>
         {text.map((info, index) => (
           <div
