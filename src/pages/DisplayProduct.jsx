@@ -17,8 +17,10 @@ const DisplayProduct = () => {
   const filteredItems = items.filter((item) => item.category === category);
 
   if(loading) return <p>loading...</p>
+  console.log(loading)
   return (
-    <div className="flex justify-center gap-6 items-center mt-15 flex-wrap ">
+    <div className="flex justify-center gap-6 items-center mt-15 flex-wrap "
+    >
       
       { filteredItems.map((item, index) => (
         <div key={index}>

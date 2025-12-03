@@ -14,9 +14,7 @@ function App() {
 
   return (
     <>
-   
-
-      <Navbar/>
+      <Navbar />
       <Home />
       <Us  />
       <Products />
