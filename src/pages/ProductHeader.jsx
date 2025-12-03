@@ -7,10 +7,11 @@ import { setCategory } from '../store/storeSlice'
 const ProductHeader = () => {
 
 
-    const [active, setActive] = useState(null)
+    const [active, setActive] = useState('Chair')
     const dispatch = useDispatch()
     const {category, loading} = useSelector(state => state.products)
     
+   
 
     const toggleClick = ((name) => {
     
